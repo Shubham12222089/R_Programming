@@ -9,3 +9,4 @@ url.show('link of the website')
 mydata<-read.table('link of the website')
 mydata
 
+getwd()
