@@ -34,3 +34,7 @@ while(i<=6){
 }
 temp
 
+#name changing
+z<-c("Tensor","Pytorch")
+names(z) = c("end","start")
+z

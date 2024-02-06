@@ -32,3 +32,12 @@ int
 int[2][1]
 int[2,]
 int[,3]
+int[2]
+
+#indexing using logical vector
+
+a<-c(1,2,3,4,5)
+a[c(T,F,T,T,F)]
+
+
+
