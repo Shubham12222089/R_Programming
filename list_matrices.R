@@ -39,5 +39,18 @@ int[2]
 a<-c(1,2,3,4,5)
 a[c(T,F,T,T,F)]
 
+lis <- list(1,2,3,4,5,6)
+lis
+
+list1<-c(1,2,3)
+list2<-c("Shubham","Arpita","Vaishali")
+list3 <- list(c(1:3))
+list4 <- list(1,"2","Shubham",'a')
+
+list1
+list2
+list3
+list4
+
 
 
