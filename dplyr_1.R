@@ -19,3 +19,4 @@ h
 #tail function
 t<-tail(mydata,3)
 t
+
