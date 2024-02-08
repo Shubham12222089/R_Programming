@@ -13,3 +13,10 @@ for(i in t){
   sum = sum+i
 }
 print(sum)
+
+a <- matrix(c(1:9),nrow=3,ncol=3)
+b <- matrix(c(10:18),nrow=3,ncol=3)
+
+res <- a+b
+res
+
