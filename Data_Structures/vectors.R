@@ -9,13 +9,14 @@ sum(x)
 sum(y)
 print(x+y)
 print(x*y)
+#----------------------------
 d<-30
 if(d %in% x || d %in% y){
   print("YES")
 }else{
   print("NO")
 }
-
+#----------------------------
 a<-7.5
 b<-2
 cat("Sum is : ",a+b)
@@ -25,7 +26,7 @@ cat("Div is : ",a%/%b)
 cat("Mul is : ",a*b)
 cat("Exp is : ",a^b)
 
-
+#-----------------------
 temp<-1
 i<-1
 while(i<=6){
