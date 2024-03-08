@@ -1,4 +1,4 @@
-#scattered plot
+#scattered plot---------------------
 mydata<-read.csv('practice.csv')
 mydata
 

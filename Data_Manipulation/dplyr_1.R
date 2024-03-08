@@ -8,6 +8,7 @@ is.numeric(id)
 d<-select(mydata, id)
 d
 
+
 #filter function
 fil <- filter(mydata,id>103 & marks>3)
 fil
