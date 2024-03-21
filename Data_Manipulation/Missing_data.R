@@ -12,3 +12,4 @@ m<-is.na(mydata)
 m
 n<-complete.cases(mydata)
 n
+
