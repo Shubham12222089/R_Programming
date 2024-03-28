@@ -1,0 +1,6 @@
+Name Age City Occupation
+John 28 New YorkEngineer
+Sarah 32 Los AngelesDataScientist
+Michael 25 Chicago Teacher
+Emily 29 San FranciscoGraphicDesigner
+Alex 35 Boston SoftwareDeveloper
