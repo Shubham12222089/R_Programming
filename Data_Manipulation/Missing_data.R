@@ -13,3 +13,4 @@ m
 n<-complete.cases(mydata)
 n
 
+ 

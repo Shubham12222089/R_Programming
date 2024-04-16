@@ -9,3 +9,5 @@ hist(mydata$Revenue,
         ylab='Revenue',
         col='yellow',
         main='Month vs Revenue')
+
+pie(mydata$M)

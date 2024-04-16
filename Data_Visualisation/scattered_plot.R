@@ -8,4 +8,5 @@ plot(mydata$Revenue,
         col='red',
         mydata$M,
         main='Month vs Revenue',
+     
         pch=20)
